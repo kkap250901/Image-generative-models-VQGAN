@@ -8,9 +8,7 @@ Images
 - This folder is where images are saved it will have subfolders which would be created
 
 Paper link :
-<object src="https://github.com/kkap250901/Image-generative-models-VQGAN/blob/main/ccbd24-paper.pdf" type="application/pdf" title="SamplePdf" width="500" height="720">
-    <a href="https://github.com/kkap250901/Image-generative-models-VQGAN/blob/main/ccbd24-paper.pdf">VQGAN-transformer</a> 
-</object>
+>![PDF](https://github.com/kkap250901/Image-generative-models-VQGAN/blob/main/ccbd24-paper.pdf)
 
 To run the .ipynb place the 'dataset' folder with FFHQ in this main directory for all the cells to run normally \\
 To sample images with 8 \times 8 grid please run the third last cell after initialising the models \\
